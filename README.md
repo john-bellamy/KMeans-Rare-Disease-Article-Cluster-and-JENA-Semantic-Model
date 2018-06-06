@@ -1,4 +1,4 @@
-# RDOST-app
+# Rare Disease Article Clustering and JENA Semantic Model
 Rare Disease Ontology and Search tool is a Jena-model-driven application for article retrieval.
 
 You will need to move the fuseki-server.jar to RDOST/fuseki first. Then follow instructions in README.
