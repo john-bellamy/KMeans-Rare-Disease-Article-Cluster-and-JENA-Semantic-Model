@@ -47,11 +47,18 @@ You need to have the following python packages installed either by pip or conda 
 
 # Installation Ontology Search Tool:
 Rare Disease Ontology and Search tool is a Jena-model-driven application for article retrieval. 
-You will need to move the fuseki-server.jar to RDOST/fuseki first. Then follow instructions in README.
+
 
 How to Run (also see documentation in unzipped file):
+
+Requirements:
 1) Requires Jena 3.0.1
 2) Requires OpenCsv jarfile, which I included in this same directory. Both of these items need to be on build path.
-3) The main class is JenaModelCreationMain. Run this class after adding above to build path. This will run the other methods and classes and create the TDB database.
-4) Run the bootstrap.sh file to load the Fuseki Server.
-5) Navigate to localhost:3030 on your browser, then select pubmed. Articles to query.
+
+The main class is JenaModelCreationMain. Run this class after adding above to build path. This will run the other methods and classes and create the TDB database.
+
+1) Download RDOST.zip and extract files.
+2) Download fuskei-server.jar file.
+3) You will need to move the fuseki-server.jar to RDOST/fuseki. Then follow instructions in README in zip file, reproduced below.
+Run the bootstrap.sh file to load the Fuseki Server.
+Navigate to localhost:3030 on your browser, then select pubmed. Articles to query.
