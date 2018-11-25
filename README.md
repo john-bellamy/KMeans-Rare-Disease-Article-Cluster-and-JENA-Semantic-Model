@@ -1,4 +1,4 @@
-# Kmeans+ Rare Disease Article Cluster and JENA Semantic Model
+# KMeans+ Rare Disease Article Cluster and JENA Semantic Model
 
 # PART I--Cluster:
 
