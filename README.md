@@ -2,7 +2,7 @@
 
 # PART I--Cluster:
 
-### To see outcome, look at sbma.html in Cluster Analysis folder.
+### To see outcome, look at sbma.html in Cluster Analysis>>DATA.OUT folder.
 ### To see a demo of Jena Semantic Model, open JenaDemo.pdf
 (Scroll past project description to read install instructions)
 
