@@ -1,7 +1,8 @@
-# KMeans+ Rare Disease Article Cluster and JENA Semantic Model
+# Interactive KMeans+ Rare Disease Article Cluster and JENA Semantic Model
 
 # PART I--Cluster:
 
+To see outcome, look at sbma.html in Cluster Analysis folder.
 (Scroll past project description to read install instructions)
 
 # Abstract— 
