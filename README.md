@@ -1,6 +1,6 @@
-# Rare Disease Article Clustering and JENA Semantic Model
+# Kmeans+ Rare Disease Article Cluster and JENA Semantic Model
 
-# PART I:
+# PART I--Cluster:
 
 (Scroll past project description to read install instructions)
 
@@ -28,7 +28,7 @@ In the cluster that was created we find some surprises. There is a large grey cl
 
 We also see the terms trinucleotide and CAG Repeat. Maybe we are on to something. It appears that pathophysiological terms that are distinct for a disease can be used to improve article retrieval, but how?
 
-# PART II
+# PART II--Jena Model:
 
 # Abstract— 
 At Indiana University, I had carte blanche in choosing data and topics. I took a Semantic Web Technology class and was exploring JENA, RDF, OWL and XML, etc. Could a semantic web application increase article retrieval? Spoiler: Yes it can!
@@ -45,9 +45,10 @@ You need to have the following python packages installed either by pip or conda 
 2) nltk
 3) sklearn and matplotlib, if not using Anaconda.
 
+Navigate to Cluster Analysis folder and open WIAN cluster_analysis.ipynb in your Jupyter/Ipython environment.
+
 # Installation Ontology Search Tool:
 Rare Disease Ontology and Search tool is a Jena-model-driven application for article retrieval. 
-
 
 How to Run (also see documentation in unzipped file):
 
